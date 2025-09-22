@@ -4,4 +4,4 @@ WHERE department = 'sales' AND leavee > 5;
 
 2)SELECT COUNT(*) AS num_employees
 FROM employee
-WHERE department = 'operations';
+WHERE department = 'operationssss';
